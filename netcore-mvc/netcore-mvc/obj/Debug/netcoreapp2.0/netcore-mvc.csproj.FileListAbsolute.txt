@@ -1,0 +1,11 @@
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\bin\Debug\netcoreapp2.0\netcore-mvc.deps.json
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\bin\Debug\netcoreapp2.0\netcore-mvc.runtimeconfig.json
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\bin\Debug\netcoreapp2.0\netcore-mvc.runtimeconfig.dev.json
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\bin\Debug\netcoreapp2.0\netcore-mvc.dll
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\bin\Debug\netcoreapp2.0\netcore-mvc.pdb
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.csprojResolveAssemblyReference.cache
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.csproj.CoreCompileInputs.cache
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.AssemblyInfoInputs.cache
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.AssemblyInfo.cs
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.dll
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc\obj\Debug\netcoreapp2.0\netcore-mvc.pdb

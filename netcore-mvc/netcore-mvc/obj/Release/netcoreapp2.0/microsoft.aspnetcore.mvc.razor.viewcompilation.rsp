@@ -1,0 +1,12 @@
+D:\GitHub\testedocker\netcore-mvc\netcore-mvc
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=netcore-mvc
+--content-root=D:\GitHub\testedocker\netcore-mvc\netcore-mvc
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\About.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\Contact.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\Error.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\Index.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\_Layout.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\_ViewImports.cshtml
+--file=D:\GitHub\testedocker\netcore-mvc\netcore-mvc\Pages\_ViewStart.cshtml

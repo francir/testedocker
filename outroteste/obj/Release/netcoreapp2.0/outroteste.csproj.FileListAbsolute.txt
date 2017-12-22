@@ -1,0 +1,10 @@
+D:\GitHub\testedocker\outroteste\bin\Release\netcoreapp2.0\outroteste.deps.json
+D:\GitHub\testedocker\outroteste\bin\Release\netcoreapp2.0\outroteste.runtimeconfig.json
+D:\GitHub\testedocker\outroteste\bin\Release\netcoreapp2.0\outroteste.runtimeconfig.dev.json
+D:\GitHub\testedocker\outroteste\bin\Release\netcoreapp2.0\outroteste.dll
+D:\GitHub\testedocker\outroteste\bin\Release\netcoreapp2.0\outroteste.pdb
+D:\GitHub\testedocker\outroteste\obj\Release\netcoreapp2.0\outroteste.csproj.CoreCompileInputs.cache
+D:\GitHub\testedocker\outroteste\obj\Release\netcoreapp2.0\outroteste.AssemblyInfoInputs.cache
+D:\GitHub\testedocker\outroteste\obj\Release\netcoreapp2.0\outroteste.AssemblyInfo.cs
+D:\GitHub\testedocker\outroteste\obj\Release\netcoreapp2.0\outroteste.dll
+D:\GitHub\testedocker\outroteste\obj\Release\netcoreapp2.0\outroteste.pdb

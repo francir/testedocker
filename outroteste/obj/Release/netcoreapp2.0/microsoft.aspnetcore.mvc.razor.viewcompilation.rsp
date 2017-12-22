@@ -1,0 +1,12 @@
+D:\GitHub\testedocker\outroteste
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=outroteste
+--content-root=D:\GitHub\testedocker\outroteste
+--file=D:\GitHub\testedocker\outroteste\Views\Home\About.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\Home\Contact.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\Home\Index.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\Shared\Error.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\Shared\_Layout.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\_ViewImports.cshtml
+--file=D:\GitHub\testedocker\outroteste\Views\_ViewStart.cshtml
